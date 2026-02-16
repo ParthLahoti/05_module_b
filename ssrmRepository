@@ -1,0 +1,8 @@
+package com.example.indiaskills;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+
+public interface ssrmRepository extends JpaRepository<ssrm, int> {
+}
+
